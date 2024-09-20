@@ -99,6 +99,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika
 ![Praktikum 4 Langkah 6](./img/P4L6.png)
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collection For dan dokumentasikan hasilnya.
     
+    
     - Manfaat dari Collection For adalah untuk menyederhanakan kode dengan membuatnya lebih terstruktur dan mudah dibaca serta menyertakan value yang dihasilkan dari iterasi langsung dalam proses pembuatan list, tanpa perlu menulis loop terpisah
 
 ![Praktikum 4 Langkah 6](./img/P4L6O.png)
