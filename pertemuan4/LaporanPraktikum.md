@@ -17,6 +17,7 @@
 
 3. Praktikum 2: Eksperimen Tipe Data Set
 - Langkah 1:
+  
  ![Praktikum 2 Lanngkah 1](./img/P2L1.png)
  - Langkah 2:
 
@@ -48,6 +49,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki.
 
 Tambahkan elemen nama dan NIM Anda pada tiap variabel di atas (gifts, nobleGases, mhs1, dan mhs2). Dokumentasikan hasilnya dan buat laporannya!
+
 ![Praktikum 3 Lanngkah 3](./img/P3L3T.png)
 ![Praktikum 3 Lanngkah 3](./img/P3L3TO.png)
 5. Praktikum 4: Eksperimen Tipe Data List: Spread dan Control-flow Operators
@@ -75,20 +77,25 @@ Tambahkan variabel list berisi NIM Anda menggunakan Spread Operators. Dokumentas
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel promoActive ketika true dan false.
  
  Ketika true
+ 
 ![Praktikum 4 Langkah 4](./img/P4L4T.png)
 ![Praktikum 4 Langkah 4](./img/P4L4TO.png)
 
 ketika false
+
 ![Praktikum 4 Langkah 4](./img/P4L4T2.png)
 ![Praktikum 4 Langkah 4](./img/P4L4T2O.png)
 
 - Langkah 5:
+  
 ![Praktikum 4 Langkah 5](./img/P4L5.png)
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika variabel login mempunyai kondisi lain.
+
 ![Praktikum 4 Langkah 5](./img/P4L5T.png)
 ![Praktikum 4 Langkah 5](./img/P4L5TO.png)
 
 - Langkah 6:
+  
 ![Praktikum 4 Langkah 6](./img/P4L6.png)
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collection For dan dokumentasikan hasilnya.
     
@@ -98,6 +105,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collec
 
 6. Praktikum 5: Eksperimen Tipe Data Records
 - Langkah 1:
+  
 ![Praktikum 5 Langkah 1](./img/P5L1.png)
 - Langkah 2:
 
@@ -105,6 +113,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collec
     - Pada kodingan diatas terdapat variabel record dimana variabel tersebut bisa menampung 2 jenis tipe data yaitu tipe data list/set dan tipe data map,lalu printnya sesuai dengan urutan tipe datanya 
 
 - Langkah 3:
+  
 ![Praktikum 5 Langkah 3](./img/P5L3.png)
 
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gunakan fungsi tukar() di dalam main() sehingga tampak jelas proses pertukaran value field di dalam Records.
@@ -122,12 +131,15 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gunakan fungsi tukar() 
     
     
 apa yang terjadi ? Jika terjadi error, silakan perbaiki. Inisialisasi field nama dan NIM Anda pada variabel record mahasiswa di atas. Dokumentasikan hasilnya dan buat laporannya!
+
 ![Praktikum 5 Langkah 4](./img/P5L4T.png)
 ![Praktikum 5 Langkah 4](./img/P5L4TO.png)
 
 - Langkah 5:
+- 
 ![Praktikum 5 Langkah 5](./img/P5L5.png)
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gantilah salah satu isi record dengan nama dan NIM Anda, lalu dokumentasikan hasilnya dan buat laporannya!
+
 ![Praktikum 5 Langkah 5](./img/P5L5T.png)
 ![Praktikum 5 Langkah 5](./img/P5L5TO.png)
 
