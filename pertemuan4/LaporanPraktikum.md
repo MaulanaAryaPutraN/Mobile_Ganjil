@@ -137,9 +137,10 @@ apa yang terjadi ? Jika terjadi error, silakan perbaiki. Inisialisasi field nama
 ![Praktikum 5 Langkah 4](./img/P5L4TO.png)
 
 - Langkah 5:
-- 
+  
 ![Praktikum 5 Langkah 5](./img/P5L5.png)
 Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Gantilah salah satu isi record dengan nama dan NIM Anda, lalu dokumentasikan hasilnya dan buat laporannya!
+
 
 ![Praktikum 5 Langkah 5](./img/P5L5T.png)
 ![Praktikum 5 Langkah 5](./img/P5L5TO.png)
