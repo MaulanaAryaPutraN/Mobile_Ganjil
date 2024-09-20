@@ -101,7 +101,7 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Jelaskan manfaat Collec
     
     - Manfaat dari Collection For adalah untuk menyederhanakan kode dengan membuatnya lebih terstruktur dan mudah dibaca serta menyertakan value yang dihasilkan dari iterasi langsung dalam proses pembuatan list, tanpa perlu menulis loop terpisah
 
-    ![Praktikum 4 Langkah 6](./img/P4L6O.png)
+![Praktikum 4 Langkah 6](./img/P4L6O.png)
 
 6. Praktikum 5: Eksperimen Tipe Data Records
 - Langkah 1:
